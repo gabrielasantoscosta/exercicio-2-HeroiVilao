@@ -1,0 +1,23 @@
+.card {
+  width: 200px;
+  padding: 20px;
+  border: 2px solid black;
+  text-align: center;
+}
+
+.barra {
+  background: #ccc;
+  margin: 10px 0;
+}
+
+.vida {
+  width: 80%;
+  background: green;
+  color: white;
+}
+
+.poder {
+  width: 60%;
+  background: red;
+  color: white;
+}
